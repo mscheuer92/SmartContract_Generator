@@ -1,2 +1,5 @@
 # SmartContract_Generator
-A file which generates a crypto token smart contract
+
+### To generate a smart contract via web browser, 
+
+[Remix Ethereum](https://remix.ethereum.org/)
